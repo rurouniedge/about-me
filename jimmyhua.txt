@@ -2,3 +2,4 @@ Jimmy Hua
 * Born in: Minneapolis, Minnesota
 * Enjoys programming
 * favoirate color: red
+* favoirate color: no Blue
